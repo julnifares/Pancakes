@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.*;
 class Pancakes {
 	
+	//Opis zadani tu: https://code.google.com/codejam/contest/6254486/dashboard#s=p1
 	
  static String flip(String str){
 	
